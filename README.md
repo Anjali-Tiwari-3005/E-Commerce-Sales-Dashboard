@@ -56,4 +56,4 @@ This dashboard empowers decision-makers with a clear, data-driven view of sales 
 * Customer Behavior: Average order value is high (121K), and preferred payment methods can be filtered to study spending patterns.
 
 ### 7. Dashboard Screenshot
-([https://github.com/Anju3005/E-Commerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)]
+https://github.com/Anju3005/E-Commerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
