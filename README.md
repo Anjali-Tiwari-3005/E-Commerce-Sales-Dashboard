@@ -1,6 +1,7 @@
 # E-Commerce-Sales-Dashboard
 
-E-Commerce Sales Dashboard-
+E-Commerce Sales Dashboard
+
 A dynamic and interactive dashboard designed to analyze and visualize key sales metrics for an e-commerce business. It provides a clear view of product performance, customer behavior, and revenue trends to help businesses make informed decisions and drive growth.
 
 1. Business Problem -
