@@ -27,4 +27,5 @@ This dashboard enables:
    Printers and Bookcases are the most profitable products,highlighting them as key items for maximizing profit margins.
 
 7. This dashboard offers a clear snapshot of sales performance, customer behavior, and product profitability. Key insights like high sales in clothing, peak profits in November and January, and top spending states help drive informed business decisions. It highlights both growth opportunities and areas needing attention, making it a valuable tool for optimizing e-commerce strategy.
-   
+
+ 8. Dashboard Screenshot-https://github.com/Anju3005/E-Commerce-Sales-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
