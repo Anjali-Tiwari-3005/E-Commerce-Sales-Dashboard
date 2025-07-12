@@ -27,9 +27,9 @@ These visuals ensure that users can easily compare values and spot trends across
 
 ### 5. Key Questions Addressed
 * #### Which states are generating the highest revenue?
-   The dashboard identifies top-spending states like Uttar Pradesh, Rajasthan, and West Bengal, helping guide regional marketing and sales focus.
+The dashboard identifies top-spending states like Uttar Pradesh, Rajasthan, and West Bengal, helping guide regional marketing and sales focus.
 * #### Which product categories and items are performing best or worst?
- It highlights that Clothing leads in sales, while Printers and Bookcases are the most profitable. It also flags underperforming products like Leggings and Electronic Games.
+It highlights that Clothing leads in sales, while Printers and Bookcases are the most profitable. It also flags underperforming products like Leggings and Electronic Games.
 * #### What are the monthly profit trends, and when are peak or loss periods?
 The month-wise profit chart shows peak profits in January and November and losses in May–July, aiding seasonal strategy planning.
 * #### What is the overall business performance in terms of key metrics?:
